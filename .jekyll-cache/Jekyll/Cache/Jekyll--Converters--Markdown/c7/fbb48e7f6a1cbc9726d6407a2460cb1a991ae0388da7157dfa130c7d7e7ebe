@@ -1,0 +1,6 @@
+I"¬<h1 id="jekyll">Jekyll</h1>
+<p>Github Pages reccomended back/middlened</p>
+
+<h1 id="issuesconfusions">Issues/Confusions</h1>
+<p>Each of the default folders that have a undercore before them have special attributes. I can easily iterate over the stuff in <code class="language-plaintext highlighter-rouge">_posts</code> but not the stuff in a folder like <code class="language-plaintext highlighter-rouge">_interests_</code></p>
+:ET
